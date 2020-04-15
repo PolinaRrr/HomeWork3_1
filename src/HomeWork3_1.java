@@ -47,7 +47,6 @@ public class HomeWork3_1 {
             } else if (input_number < x) {
                 System.out.println("Загаданное число больше");
                 count--;
-
             } else {
                 System.out.println("Загаданное число меньше");
                 count--;
